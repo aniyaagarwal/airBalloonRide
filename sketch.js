@@ -64,6 +64,7 @@ function draw() {
      'x': height.x + x ,
      'y': height.y + y
    })
+   console.log(balloon.x)
  }
 
 
